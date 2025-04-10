@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/奶龙图片帧/nailong_left1.png</file>
+        <file>res/奶龙图片帧/nailong_left2.png</file>
+        <file>res/奶龙图片帧/nailong_left3.png</file>
+        <file>res/奶龙图片帧/nailong_left4.png</file>
+        <file>res/奶龙图片帧/nailong_left5.png</file>
+        <file>res/奶龙图片帧/nailong_right1.png</file>
+        <file>res/奶龙图片帧/nailong_right2.png</file>
+        <file>res/奶龙图片帧/nailong_right3.png</file>
+        <file>res/奶龙图片帧/nailong_right4.png</file>
+        <file>res/奶龙图片帧/nailong_right5.png</file>
+        <file>res/奶龙图片帧/nailong0.png</file>
+        <file>res/scence/bg1.png</file>
+        <file>res/scence/bg2.png</file>
+        <file>res/scence/cave.png</file>
+        <file>res/scence/cave_horizontal.png</file>
+        <file>res/scence/spike.png</file>
+        <file>res/scence/bg10.png</file>
+        <file>res/scence/bg20.png</file>
+        <file>res/scence/Spear1.png</file>
+        <file>res/scence/Spear2.png</file>
+        <file>res/scence/Spear3.png</file>
+        <file>res/scence/Spear4.png</file>
+        <file>res/scence/Spear5.png</file>
+        <file>res/scence/Spear6.png</file>
+        <file>res/scence/Spear7.png</file>
+        <file>res/scence/Spear8.png</file>
+        <file>res/scence/Spear9.png</file>
+        <file>res/scence/Spear10.png</file>
+        <file>res/scence/Spear11.png</file>
+        <file>res/scence/Spear12.png</file>
+        <file>res/scence/Spear13.png</file>
+        <file>res/scence/Spear14.png</file>
+        <file>res/scence/Spear15.png</file>
+        <file>res/scence/Spear16.png</file>
+        <file>res/scence/Spear17.png</file>
+        <file>res/attack/fei_biao/Suriken1.png</file>
+        <file>res/attack/fei_biao/Suriken2.png</file>
+        <file>res/attack/fei_biao/Suriken3.png</file>
+        <file>res/attack/fei_biao/Suriken4.png</file>
+        <file>res/attack/fei_biao/Suriken5.png</file>
+        <file>res/attack/fei_biao/Suriken6.png</file>
+        <file>res/attack/fei_biao/Suriken7.png</file>
+        <file>res/attack/fei_biao/Suriken8.png</file>
+        <file>res/startscence/startbg.png</file>
+        <file>res/startscence/botton.png</file>
+        <file>res/startscence/botton2.png</file>
+        <file>res/startscence/botton3.png</file>
+        <file>res/startscence/back (1).png</file>
+        <file>res/startscence/back (2).png</file>
+        <file>res/startscence/back (3).png</file>
+    </qresource>
+</RCC>

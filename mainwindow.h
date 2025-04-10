@@ -21,6 +21,7 @@ public:
 
 protected:
     void keyPressEvent(QKeyEvent *event) override;
+    void keyReleaseEvent(QKeyEvent *event1) override;
 
 private:
     Ui::MainWindow *ui;

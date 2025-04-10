@@ -11,18 +11,23 @@ CONFIG += c++17
 SOURCES += \
     barrier.cpp \
     character.cpp \
+    feibiao.cpp \
     gamesence.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    startscence.cpp
 
 HEADERS += \
     barrier.h \
     character.h \
+    feibiao.h \
     gamesence.h \
-    mainwindow.h
+    mainwindow.h \
+    startscence.h
 
 FORMS += \
-    mainwindow.ui
+    mainwindow.ui \
+    startscence.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -31,3 +36,14 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     res.qrc
+
+DISTFILES += \
+    res/attack/fei_biao/Suriken1.png \
+    res/attack/fei_biao/Suriken2.png \
+    res/attack/fei_biao/Suriken3.png \
+    res/attack/fei_biao/Suriken4.png \
+    res/attack/fei_biao/Suriken5.png \
+    res/attack/fei_biao/Suriken6.png \
+    res/attack/fei_biao/Suriken7.png \
+    res/attack/fei_biao/Suriken8.png \
+    res/startscence/startbg.png
