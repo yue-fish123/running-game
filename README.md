@@ -6,6 +6,20 @@
 游戏界面：![游戏界面]()  
 结束界面：![结束界面]()  
 ## 项目结构  
-
-## 补充说明  
-
+> |-- README.md   
+|-- barrier.cpp   
+|-- barrier.h   
+|-- character.cpp    
+|-- character.h     
+|-- feibiao.cpp    
+|-- feibiao.h    
+|-- gamesence.cpp    
+|-- gamesence.h     
+|-- main.cpp     
+|-- mainwindow.cpp     
+|-- mainwindow.h     
+|-- mainwindow.ui     
+|-- res      
+|-- startscence.cpp     
+|-- startscence.h     
+|-- startscence.ui                
