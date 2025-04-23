@@ -2,9 +2,12 @@
 ## 简介  
 南开大学2025年C++课程大作业。一个基于Qt框架的跑酷小游戏。  
 ## 实现效果  
-开始界面：![游戏开始界面](https:///main/%E5%B1%95%E7%A4%BA/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-11%20223922.png)  
-游戏界面：![游戏界面]()  
-结束界面：![结束界面]()  
+开始界面：
+![开始界面](https://github.com/yue-fish123/running-game/blob/main/%E5%B1%95%E7%A4%BA/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-11%20223922.png?raw=true)  
+游戏界面：
+![游戏界面](https://github.com/yue-fish123/running-game/blob/main/%E5%B1%95%E7%A4%BA/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-13%20154854.png?raw=true)    
+结束界面：
+![结束界面](https://github.com/yue-fish123/running-game/blob/main/%E5%B1%95%E7%A4%BA/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-11%20224316.png?raw=true)    
 ## 项目结构  
 > |-- README.md   
 |-- barrier.cpp   
