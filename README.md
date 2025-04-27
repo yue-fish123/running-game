@@ -26,3 +26,10 @@
 |-- startscence.cpp     
 |-- startscence.h     
 |-- startscence.ui                
+## 细节说明  
+- barrier类中有两种障碍物分别为spear（长矛）、spike（地刺）。
+    spear类对象有动画，且在角色靠近时才会触发，并且该类对象的碰撞只有在动画播放到特定动画帧之后才有效。
+  spike类就单纯地躺在地上。
+  两种障碍物生成都是随机的。
+- gamescence类中的背景的运动是采用两张一样的图片进行滚轮播放实现的。
+- feibiao文件里的类叫attack，原先是打算写两种以上的类似飞镖的攻击物，但是之后的工作量有点大，就放弃了。
